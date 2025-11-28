@@ -1,0 +1,100 @@
+* {
+    box-sizing: border-box;
+}
+
+.imag {
+    width: 100%;
+    border-radius: 7px;
+}
+
+.borda {
+    margin-top: 1%;
+    margin-right: 0.05%;
+    margin-left: 0.05%;
+    border-radius: 7px;
+    box-shadow: 1px 1px 5px #000000;
+}
+
+.col-md-2 {
+    width: 22, 5%;
+}
+
+.col-md-4 {  
+    text-align: left;
+}
+
+.col-md-8 {
+    width: 60%;
+}
+
+.col-md-12 {
+    background-color: #123471;
+}
+
+.footer-tur {
+    background-color: #123471;
+    padding: 24px;
+    color: ghostwhite;
+}
+
+.footer-tur ul {
+    list-style-type: none;
+}
+
+.footer-tur h4 {
+    font-weight: 600;
+}
+
+.footer-icons img {
+    max-height: 26px;
+}
+
+.footer-center {
+    text-align: center;
+}
+
+#FormatTxt {
+    height: 100px;
+    padding-bottom: 1%;
+}
+
+.btn {
+
+    text-align: right;
+    background-color: #123471;
+    color: #ffffff;
+}
+
+.btn:hover {
+    color: #ffffff;
+    background-color: #c48000;
+}
+
+.btn-btn-success {
+    background-color: #123471;
+    color: #ffffff;
+    border-radius: 5px;
+}
+
+.btn-btn-outline-success {
+    background-color: #ffffff;
+    color: #123471;
+    border-radius: 5px;
+}
+
+.col- .col-md-1,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-6,
+.col-md-7,
+.col-md-8,
+.col-md-9,
+.col-md-10,
+.col-md-11,
+.col-md-12 {
+    margin: 0;
+    padding: 1%;
+    box-shadow: #000000;
+}
